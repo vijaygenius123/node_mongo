@@ -1,0 +1,24 @@
+{
+  "name": "node_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/node_mongo.git"
+  },
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/node_mongo/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/node_mongo#readme",
+  "dependencies": {
+    "dotenv": "10.0.0",
+    "mongodb": "3.6.10"
+  }
+}
